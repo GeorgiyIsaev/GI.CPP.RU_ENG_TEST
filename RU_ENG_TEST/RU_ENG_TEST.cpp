@@ -1738,7 +1738,6 @@ string bloc_glagol_eng(int x) {
 	case(98): clovo = "reach"; break;
 	case(99): clovo = "kill"; break;
 	case(100): clovo = "remain"; break;
-
 	}
 	return clovo;
 }
