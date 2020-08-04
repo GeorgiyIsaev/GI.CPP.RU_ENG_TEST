@@ -972,6 +972,7 @@ void napolnenie() {
 					/*	if ((fgets(buff, 24, f1)) && (fgets(buff2, 24, f2)))*/
 					count++;
 			}
+
 			//Читать файл с начала
 			fseek(f1, 0, SEEK_SET);
 			fseek(f2, 0, SEEK_SET);
